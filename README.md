@@ -1,2 +1,2 @@
-# OpenCV-Workshop
-Spring 2023 Intro to OpenCV SIG SWE Workshop
+# ACM OpenCV Workshop
+ACM SIG SWE OpenCV two-part workshop series
